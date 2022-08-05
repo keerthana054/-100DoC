@@ -1,5 +1,5 @@
 # -100DoC
-This is documentation my journey of coding!
+Documenting my journey of coding!
 
 # Day 3
 
